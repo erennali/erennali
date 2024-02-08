@@ -1,4 +1,4 @@
-[![MasterHead]([http://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.digitalyazarlar.com%2Fbasarili-yazilimci-nasil-olunur%2F&psig=AOvVaw3GlG8SKJQEMuJL347HirAF&ust=1707508652780000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLj4s8fDnIQDFQAAAAAdAAAAABAE](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fid%2F1224500457%2Ftr%2Ffoto%25C4%259Fraf%2Fprogramlama-kodu-soyut-teknoloji-arka-plan-yaz%25C4%25B1l%25C4%25B1m-geli%25C5%259Ftiricisi-ve-bilgisayar-script.jpg%3Fs%3D612x612%26w%3D0%26k%3D20%26c%3DfWCeGOSgqADoBy5kCdqcBC4beMu-RdktezCcmYGuZAE%3D&tbnid=_ORmEMBR-OyjSM&vet=12ahUKEwj2x-WexJyEAxVjk_0HHXNOBt4QMygXegQIARBe..i&imgrefurl=https%3A%2F%2Fwww.istockphoto.com%2Ftr%2Ffoto%25C4%259Fraflar%2Fkodlama&docid=tn-Vn9_T1UEocM&w=612&h=452&q=yaz%C4%B1l%C4%B1mc%C4%B1%20resim%20http&ved=2ahUKEwj2x-WexJyEAxVjk_0HHXNOBt4QMygXegQIARBe))
+
 <h1 align="center">Hi 👋, I'm Eren Ali Koca</h1>
 <h3 align="center">A passionate junior software developer from Turkey</h3>
 
