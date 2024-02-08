@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.digitalyazarlar.com%2Fbasarili-yazilimci-nasil-olunur%2F&psig=AOvVaw3GlG8SKJQEMuJL347HirAF&ust=1707508652780000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLj4s8fDnIQDFQAAAAAdAAAAABAE)
+[![MasterHead](http://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.digitalyazarlar.com%2Fbasarili-yazilimci-nasil-olunur%2F&psig=AOvVaw3GlG8SKJQEMuJL347HirAF&ust=1707508652780000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLj4s8fDnIQDFQAAAAAdAAAAABAE)
 <h1 align="center">Hi 👋, I'm Eren Ali Koca</h1>
 <h3 align="center">A passionate junior software developer from Turkey</h3>
 
