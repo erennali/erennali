@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eren Ali Koca</h1>
-<h3 align="center">A passionate junior software developer from Turkey 🇹🇷</h3>
+<h3 align="center">A passionate software developer from Turkey 🇹🇷</h3>
 
 <div align="center">
   <img width="480" height="270" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
