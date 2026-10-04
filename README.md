@@ -20,8 +20,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Swift**
-- 💼 I’m experienced in **Swift, Flutter, .NET, and Firebase**
+- 💼 I’m experienced in **.NET, SQL, Swift, Flutter**
 - ⚡ Fun fact: I love learning new tech and building mobile apps!
 
 ---
